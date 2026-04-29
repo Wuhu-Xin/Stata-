@@ -108,6 +108,9 @@
         <mxCell id="RaeX1q99dUUyQdcWjdDt-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="供给端" vertex="1">
           <mxGeometry height="35" width="70" x="96" y="851" as="geometry" />
         </mxCell>
+        <mxCell id="7DR3SrjjY_WsHwbHi-aS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;生成式人工智能引入&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="160" x="3" y="5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
